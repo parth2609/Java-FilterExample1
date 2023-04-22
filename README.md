@@ -1,2 +1,2 @@
 # Java-FilterExample1
-Servlet+HTML
+JAVA(Servlet)+HTML+XML
